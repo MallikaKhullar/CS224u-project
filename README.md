@@ -1,4 +1,5 @@
-# cs230-project
+# CS 224U Project
+### Authors: Prerna Khullar, Paras Gupta, Mallika Priya Khullar
 
 ## Getting Started
 
