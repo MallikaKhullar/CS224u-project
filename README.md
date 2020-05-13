@@ -8,13 +8,13 @@
 2. Create the conda environment for the project.
 
 ```bash
-conda env create -f 224u_env.yaml
+conda env create -f env.yaml
 ```
 
 3. Activate the environment.
 
 ```bash
-conda activate nlu
+conda activate nlu_project
 ```
 
 4. Install pre-commit hooks while in the root of this project.
