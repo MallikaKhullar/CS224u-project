@@ -136,3 +136,6 @@ project/data/*
 *DS_Store*
 *.json*
 *.txt*
+*bert*
+*.csv*
+*apex*
