@@ -134,3 +134,5 @@ project/data/*
 
 # ignore random mac stuff
 *DS_Store*
+*.json*
+*.txt*
