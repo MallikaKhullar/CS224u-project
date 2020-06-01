@@ -16,7 +16,7 @@ def init_char_tokenizer(df):
     return char_tokenizer
 
 def get_char_tokens(string, char_tokenizer):
-    return char_tokenizer.texts_to_sequences(str(string))[0]
+    return char_tokenizer.texts_to_sequences([str(string)])[0]
 
 def get_bigrams(string):
     try:
